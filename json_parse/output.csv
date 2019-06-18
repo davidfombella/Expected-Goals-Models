@@ -1,0 +1,19 @@
+id;minute;result;X;Y;xG;player;h_a;player_id;situation;season;shotType;match_id;h_team;a_team;h_goals;a_goals;date;player_assisted;lastAction
+242611;2;MissedShots;0,9359999847412109;0,534000015258789;0,1072189137339592;Ari;h;2930;OpenPlay;2018;Head;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Wanderson;Chipped
+242612;4;SavedShot;0,8059999847412109;0,7069999694824218;0,021672379225492477;Cristian Ramírez;h;5477;OpenPlay;2018;LeftFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;;None
+242613;4;SavedShot;0,7780000305175782;0,505;0,023817993700504303;Mauricio Pereyra;h;2922;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Viktor Claesson;Pass
+242614;17;MissedShots;0,9330000305175781;0,41;0,01863950863480568;Ari;h;2930;FromCorner;2018;Head;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Mauricio Pereyra;Aerial
+242617;21;SavedShot;0,710999984741211;0,534000015258789;0,015956614166498184;Ivan Ignatyev;h;6025;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Ari;Pass
+242621;31;MissedShots;0,7959999847412109;0,4640000152587891;0,03898102045059204;Viktor Claesson;h;5478;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;;None
+242622;36;MissedShots;0,759000015258789;0,3509999847412109;0,05237437039613724;Mauricio Pereyra;h;2922;DirectFreekick;2018;LeftFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;;Standard
+242624;42;BlockedShot;0,919000015258789;0,37;0,10843519121408463;Sergei Petrov;h;2920;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Viktor Claesson;Pass
+242625;48;MissedShots;0,7719999694824219;0,385;0,023656079545617104;Aleksandr Martynovich;h;2790;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Yuri Gazinskiy;Pass
+242626;49;MissedShots;0,715999984741211;0,4879999923706055;0,013118931092321873;Yuri Gazinskiy;h;2929;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Viktor Claesson;Pass
+242627;54;BlockedShot;0,909000015258789;0,3529999923706055;0,09400425851345062;Magomed-Shapi Suleymanov;h;5926;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Viktor Claesson;Pass
+242628;54;BlockedShot;0,8859999847412109;0,31799999237060544;0,061035316437482834;Magomed-Shapi Suleymanov;h;5926;OpenPlay;2018;LeftFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Yuri Gazinskiy;Pass
+242629;55;Goal;0,9269999694824219;0,46;0,523554801940918;Magomed-Shapi Suleymanov;h;5926;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Viktor Claesson;Pass
+242630;66;MissedShots;0,915;0,5420000076293945;0,3631550371646881;Christian Cueva;h;6799;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Cristian Ramírez;Cross
+242631;71;BlockedShot;0,685;0,485;0,03188558667898178;Cristian Ramírez;h;5477;DirectFreekick;2018;LeftFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;;Standard
+242632;72;BlockedShot;0,8909999847412109;0,4809999847412109;0,09532035887241364;Sergei Petrov;h;2920;FromCorner;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;;None
+242634;75;Goal;0,794000015258789;0,47900001525878905;0,05203503370285034;Ivan Ignatyev;h;6025;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;;None
+242640;87;BlockedShot;0,795;0,7330000305175781;0,01853240840137005;Christian Cueva;h;6799;OpenPlay;2018;RightFoot;9071;FC Krasnodar;Ural;2;0;2018-12-02 11:00:00;Sergei Petrov;Pass
